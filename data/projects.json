@@ -1,0 +1,37 @@
+[
+    {
+        "id": "gitz",
+        "title": "Gitz",
+        "year": "2024",
+        "status": "Released",
+        "thumbnail": "assets/projects/gitz/cover.webp",
+        "video": "assets/projects/gitz/preview.mp4",
+        "shortDescription": "Educational game focused on teaching Git concepts.",
+        "description": "Gitz is an educational game developed as a final graduation project. The goal is to teach version control concepts through gameplay mechanics and challenges.",
+        "roles": [
+            "Gameplay Programmer",
+            "Game Designer"
+        ],
+        "technologies": [
+            "Unity",
+            "C#",
+            "Git"
+        ],
+        "platforms": [
+            "Windows",
+            "WebGL"
+        ],
+        "teamSize": 4,
+        "duration": "6 Months",
+        "links": {
+            "github": "",
+            "itchio": "https://jaajaaj.itch.io/gitz",
+            "youtube": ""
+        },
+        "gallery": [
+            "assets/projects/gitz/screenshot1.webp",
+            "assets/projects/gitz/screenshot2.webp",
+            "assets/projects/gitz/screenshot3.webp"
+        ]
+    }
+]

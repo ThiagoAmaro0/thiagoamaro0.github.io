@@ -1,1 +1,0 @@
-# ThiagoAmaro.github.io
