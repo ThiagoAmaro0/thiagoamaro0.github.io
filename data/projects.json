@@ -5,7 +5,7 @@
         "year": "2022",
         "status": "Released",
         "thumbnail": "assets/projects/gitz/cover.webp",
-        "video": "assets/projects/gitz/preview.mp4",
+        "video": "assets/projects/gitz/video.mp4",
         "shortDescription": "Educational game focused on teaching Git concepts.",
         "description": "Gitz is an educational game developed as my final graduation project, designed to teach the fundamentals of code version control through interactive gameplay. Players create levels to guide the mascot AI to the end of each stage using interactive blocks that influence its behavior and help it reach the goal. The game's second phase introduces version control concepts such as commits, branches, merges, and conflict resolution, allowing players to learn and apply these concepts in a practical way. I was responsible for both the programming and game design of the project.",
         "roles": [
@@ -42,7 +42,7 @@
         "year": "2024",
         "status": "In Development",
         "thumbnail": "assets/projects/hellen/cover.webp",
-        "video": "assets/projects/hellen/preview.mp4",
+        "video": "assets/projects/hellen/video.mp4",
         "shortDescription": "A horror game about a old lady trapped in a supermarket.",
         "description": "Hellen is a horror game developed as a freelance project for a client, where players control an elderly woman trapped inside a supermarket who must explore the environment, collect key items, and escape while being hunted by a dangerous creature; I was responsible for the game's programming, AI behavior implementation, gameplay systems, and game design.",
         "roles": [
