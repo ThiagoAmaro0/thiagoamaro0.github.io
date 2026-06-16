@@ -84,6 +84,10 @@ fetch("data/projects.json")
                 "links"
             );
 
+        if (links.innerHTML.trim() === "") {
+            links.innerHTML += '<p>No links available.</p>';
+        }
+
         if (project.links.github) {
             links.innerHTML += `
         <a href="${project.links.github}"

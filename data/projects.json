@@ -39,12 +39,12 @@
     {
         "id": "hellen",
         "title": "Hellen",
-        "year": "2022",
-        "status": "Released",
+        "year": "2024",
+        "status": "In Development",
         "thumbnail": "assets/projects/hellen/cover.webp",
         "video": "assets/projects/hellen/preview.mp4",
-        "shortDescription": "",
-        "description": "",
+        "shortDescription": "A horror game about a old lady trapped in a supermarket.",
+        "description": "Hellen is a horror game developed as a freelance project for a client, where players control an elderly woman trapped inside a supermarket who must explore the environment, collect key items, and escape while being hunted by a dangerous creature; I was responsible for the game's programming, AI behavior implementation, gameplay systems, and game design.",
         "roles": [
             "Gameplay Programmer",
             "Game Designer"
@@ -52,14 +52,13 @@
         "technologies": [
             "Unity",
             "C#",
-            "Git"
+            "Fmod"
         ],
         "platforms": [
-            "Windows",
-            "WebGL"
+            "Windows"
         ],
         "teamSize": 3,
-        "duration": "6 Months",
+        "duration": "2 Months",
         "links": {
             "github": "",
             "itchio": "",
