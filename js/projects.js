@@ -55,7 +55,8 @@ fetch("data/projects.json")
             controls
             autoplay
             muted
-            loop>
+            loop
+            preload="metadata">
 
             <source
                 src="${project.video}"
