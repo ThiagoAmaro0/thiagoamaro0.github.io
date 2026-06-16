@@ -65,3 +65,36 @@ fetch("data/projects.json")
             grid.appendChild(card);
         });
     });
+
+const backToTop =
+    document.getElementById(
+        "backToTop"
+    );
+
+window.addEventListener(
+    "scroll",
+    () => {
+        if (window.scrollY > 300) {
+            backToTop.style.display = "block";
+            backToTop.classList.add(
+                "show"
+            );
+        }
+        else {
+            backToTop.style.display = "none";
+            backToTop.classList.remove(
+                "show"
+            );
+        }
+    }
+);
+
+backToTop.addEventListener(
+    "click",
+    () => {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
+        });
+    }
+);
