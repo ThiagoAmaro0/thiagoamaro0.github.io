@@ -2,12 +2,12 @@
     {
         "id": "gitz",
         "title": "Gitz",
-        "year": "2024",
+        "year": "2022",
         "status": "Released",
         "thumbnail": "assets/projects/gitz/cover.webp",
         "video": "assets/projects/gitz/preview.mp4",
         "shortDescription": "Educational game focused on teaching Git concepts.",
-        "description": "Gitz is an educational game developed as a final graduation project. The goal is to teach version control concepts through gameplay mechanics and challenges.",
+        "description": "Gitz is an educational game developed as my final graduation project, designed to teach the fundamentals of code version control through interactive gameplay. Players create levels to guide the mascot AI to the end of each stage using interactive blocks that influence its behavior and help it reach the goal. The game's second phase introduces version control concepts such as commits, branches, merges, and conflict resolution, allowing players to learn and apply these concepts in a practical way. I was responsible for both the programming and game design of the project.",
         "roles": [
             "Gameplay Programmer",
             "Game Designer"
@@ -21,7 +21,7 @@
             "Windows",
             "WebGL"
         ],
-        "teamSize": 4,
+        "teamSize": 3,
         "duration": "6 Months",
         "links": {
             "github": "",
@@ -31,7 +31,46 @@
         "gallery": [
             "assets/projects/gitz/screenshot1.webp",
             "assets/projects/gitz/screenshot2.webp",
-            "assets/projects/gitz/screenshot3.webp"
+            "assets/projects/gitz/screenshot3.webp",
+            "assets/projects/gitz/screenshot4.webp",
+            "assets/projects/gitz/screenshot5.webp"
+        ]
+    },
+    {
+        "id": "hellen",
+        "title": "Hellen",
+        "year": "2022",
+        "status": "Released",
+        "thumbnail": "assets/projects/hellen/cover.webp",
+        "video": "assets/projects/hellen/preview.mp4",
+        "shortDescription": "",
+        "description": "",
+        "roles": [
+            "Gameplay Programmer",
+            "Game Designer"
+        ],
+        "technologies": [
+            "Unity",
+            "C#",
+            "Git"
+        ],
+        "platforms": [
+            "Windows",
+            "WebGL"
+        ],
+        "teamSize": 3,
+        "duration": "6 Months",
+        "links": {
+            "github": "",
+            "itchio": "",
+            "youtube": ""
+        },
+        "gallery": [
+            "assets/projects/hellen/screenshot1.webp",
+            "assets/projects/hellen/screenshot2.webp",
+            "assets/projects/hellen/screenshot3.webp",
+            "assets/projects/hellen/screenshot4.webp",
+            "assets/projects/hellen/screenshot5.webp"
         ]
     }
 ]
