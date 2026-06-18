@@ -7,7 +7,7 @@
         "thumbnail": "assets/projects/gitz/cover.webp",
         "video": "assets/projects/gitz/video.mp4",
         "shortDescription": "Educational game focused on teaching Git concepts.",
-        "description": "Gitz is an educational game developed as my final graduation project, designed to teach the fundamentals of code version control through interactive gameplay. Players create levels to guide the mascot AI to the end of each stage using interactive blocks that influence its behavior and help it reach the goal. The game's second phase introduces version control concepts such as commits, branches, merges, and conflict resolution, allowing players to learn and apply these concepts in a practical way. I was responsible for both the programming and game design of the project.",
+        "description": "Gitz is an educational game developed as my final graduation project, designed to teach the fundamentals of code version control through interactive gameplay.\nPlayers create levels to guide the mascot AI to the end of each stage using interactive blocks that influence its behavior and help it reach the goal.\nThe game's second phase introduces version control concepts such as commits, branches, merges, and conflict resolution, allowing players to learn and apply these concepts in a practical way. I was responsible for both the programming and game design of the project.",
         "roles": [
             "Gameplay Programmer",
             "Game Designer"
@@ -43,8 +43,8 @@
         "status": "In Development",
         "thumbnail": "assets/projects/hellen/cover.webp",
         "video": "assets/projects/hellen/video.mp4",
-        "shortDescription": "A horror game about a old lady trapped in a supermarket.",
-        "description": "Hellen is a horror game developed as a freelance project for a client, where players control an elderly woman trapped inside a supermarket who must explore the environment, collect key items, and escape while being hunted by a dangerous creature; I was responsible for the game's programming, AI behavior implementation, gameplay systems, and game design.",
+        "shortDescription": "A horror game with a AI chasing the player inside a supermarket.",
+        "description": "Hellen is a horror game developed as a freelance project for a client, where players control an elderly woman trapped inside a supermarket who must explore the environment, collect key items, and escape while being hunted by a dangerous creature.\nI was responsible for the game's programming, AI behavior implementation, gameplay systems, and level design.",
         "roles": [
             "Gameplay Programmer",
             "Game Designer"
@@ -70,6 +70,44 @@
             "assets/projects/hellen/screenshot3.webp",
             "assets/projects/hellen/screenshot4.webp",
             "assets/projects/hellen/screenshot5.webp"
+        ]
+    },
+    {
+        "id": "nomine-patris",
+        "title": "Nomine Patris",
+        "year": "2025",
+        "status": "Released",
+        "thumbnail": "assets/projects/nomine-patris/cover.webp",
+        "video": "assets/projects/nomine-patris/video.mp4",
+        "shortDescription": "Horror game made for ScreamJam 2025",
+        "description": "Nomine Patris is a game designed for ScreamJam 2025 that aims to approach horror by creating tension rather than focusing on scary moments. Taking on the role of an exorcist, the player must find the necessary items to access all the rooms in the house and thus begin the ritual to defeat the anomaly.\nThe game features a dynamic level design that changes with each playthrough, ensuring a unique experience every time. I was responsible for the programming of the game, including the implementation of the dynamic level design, gameplay mechanics, and overall game systems.",
+        "roles": [
+            "Gameplay Programmer"
+        ],
+        "technologies": [
+            "Unity",
+            "C#"
+        ],
+        "platforms": [
+            "Windows",
+            "WebGL"
+        ],
+        "teamSize": 4,
+        "duration": "2 Weeks",
+        "links": {
+            "github": "",
+            "itchio": "https://cosmic-canvas-games.itch.io/nomine-patris",
+            "youtube": "https://youtu.be/Weyx9wBgua0"
+        },
+        "gallery": [
+            "assets/projects/nomine-patris/screenshot1.webp",
+            "assets/projects/nomine-patris/screenshot2.webp",
+            "assets/projects/nomine-patris/screenshot3.webp",
+            "assets/projects/nomine-patris/screenshot4.webp",
+            "assets/projects/nomine-patris/screenshot5.webp",
+            "assets/projects/nomine-patris/screenshot6.webp",
+            "assets/projects/nomine-patris/screenshot7.webp",
+            "assets/projects/nomine-patris/screenshot8.webp"
         ]
     }
 ]

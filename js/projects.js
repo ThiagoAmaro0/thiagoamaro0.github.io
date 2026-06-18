@@ -36,9 +36,10 @@ fetch("data/projects.json")
             .textContent =
             project.status;
 
+        const descriptionEl = project.description.replace(/\n/g, "<br>");
         document.getElementById("description")
-            .textContent =
-            project.description;
+            .innerHTML =
+            descriptionEl;
 
         document.getElementById("teamSize")
             .textContent =
@@ -85,7 +86,7 @@ fetch("data/projects.json")
                 "links"
             );
 
-        if (links.innerHTML.trim() === "") {
+        if (!project.links.github && !project.links.itchio && !project.links.youtube) {
             links.innerHTML += '<p>No links available.</p>';
         }
 
