@@ -90,13 +90,13 @@ fetch("data/projects.json")
             links.innerHTML += '<p>No links available.</p>';
         }
 
-        if (project.links.github) {
+        if (project.links.playstore) {
             links.innerHTML += `
-        <a href="${project.links.github}"
+        <a href="${project.links.playstore}"
            target="_blank">
 
-           <i class="fa-brands fa-github"></i>
-           GitHub
+           <i class="fa-brands fa-google-play"></i>
+           Play Store
 
         </a>`;
         }
@@ -119,6 +119,17 @@ fetch("data/projects.json")
 
            <i class="fa-brands fa-youtube"></i>
            YouTube
+
+        </a>`;
+        }
+
+        if (project.links.steam) {
+            links.innerHTML += `
+        <a href="${project.links.steam}"
+           target="_blank">
+
+           <i class="fa-brands fa-steam"></i>
+           Steam
 
         </a>`;
         }

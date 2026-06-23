@@ -109,5 +109,42 @@
             "assets/projects/nomine-patris/screenshot7.webp",
             "assets/projects/nomine-patris/screenshot8.webp"
         ]
+    },
+    {
+        "id": "ghost-hunter",
+        "title": "Ghost Hunter",
+        "year": "2024",
+        "status": "Released",
+        "thumbnail": "assets/projects/ghost-hunter/cover.webp",
+        "video": "assets/projects/ghost-hunter/video.mp4",
+        "shortDescription": "Hydrid-casual game ported to mobile and Steam.",
+        "description": "Ghost Hunter is a hybrid-casual originally developed for Mobile and later ported to Steam. The game features a combat system including bosses and various enemy types, as well as a progression system with character upgrades and unlockable content. I was responsible for the programming of the game, including the implementation of gameplay mechanics, combat systems, and the porting process to different platforms.",
+        "roles": [
+            "Gameplay Programmer"
+        ],
+        "technologies": [
+            "Unity",
+            "C#",
+            "Porting"
+        ],
+        "platforms": [
+            "Playstore",
+            "Steam"
+        ],
+        "teamSize": 4,
+        "duration": "6 Months",
+        "links": {
+            "playstore": "https://play.google.com/store/apps/details?id=com.EPRAGames.GhostHunter&hl=pt_BR",
+            "steam": "https://store.steampowered.com/app/2902640/Ghost_Hunter/",
+            "youtube": "https://www.youtube.com/watch?v=Da3t26EucFw"
+        },
+        "gallery": [
+            "assets/projects/ghost-hunter/screenshot1.webp",
+            "assets/projects/ghost-hunter/screenshot2.webp",
+            "assets/projects/ghost-hunter/screenshot3.webp",
+            "assets/projects/ghost-hunter/screenshot4.webp",
+            "assets/projects/ghost-hunter/screenshot5.webp",
+            "assets/projects/ghost-hunter/screenshot6.webp"
+        ]
     }
 ]

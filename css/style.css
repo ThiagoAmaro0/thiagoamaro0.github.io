@@ -64,7 +64,7 @@ nav a {
 }
 
 section {
-    padding: 100px 0;
+    padding: 20px 0;
 }
 
 h2 {
@@ -95,15 +95,14 @@ h2 {
 
 #projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 0fr));
-    gap: 30px;
+    grid-template-columns: repeat(auto-fit, minmax(30%, 0fr));
+    gap: 20px;
 }
 
 .project-card {
     background: #181b22;
     border-radius: 12px;
     overflow: hidden;
-    width: 500px;
 
     text-decoration: none;
     color: white;
